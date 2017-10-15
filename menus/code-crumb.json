@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle code-crumb",
+        "command": "code-crumb:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "code-crumb",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "code-crumb:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

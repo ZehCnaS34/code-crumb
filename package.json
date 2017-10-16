@@ -1,20 +1,14 @@
 {
   "name": "code-crumb",
+  "author": "ZehCnaS34",
   "main": "./lib/code-crumb",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A simple bread-crumb plugin (for now).",
   "keywords": [],
   "repository": "https://github.com/atom/code-crumb",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "consumedServices": {
-    "file-icons.element-icons": {
-      "versions": {
-        "1.0.0": "consumeElementIcons"
-      }
-    }
   },
   "dependencies": {
     "etch": "^0.12.6"

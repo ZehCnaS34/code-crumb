@@ -1,5 +1,5 @@
-# code-crumb package
+# Code Crumb
 
-A short description of your package.
+*under construction*
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+The goal of this project is to provide a generic bread-crumb system that allows other packages, specifically `atom-ide` packages, to integrate with.
